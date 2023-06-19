@@ -315,7 +315,7 @@ class Placeholder {
 
 // All translations for a given message specified by a resource id.
 //
-// The template ARB file must contain an entry called @myResourceId for each
+// The template ARB file may contain an entry called @myResourceId for each
 // message named myResourceId. The @ entry describes message parameters
 // called "placeholders" and can include an optional description.
 // Here's a simple example message with no parameters:
